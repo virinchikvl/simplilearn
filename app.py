@@ -1,4 +1,6 @@
 
  hello world ding ding 
 
-vi is editor name use to edit files in linux 
+i is editor name use to edit files in linux
+
+life is a ding ding  
